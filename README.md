@@ -1,2 +1,2 @@
 # ashugitrepo
-Practicing git .
+Practicing git1  .
